@@ -20,3 +20,20 @@ O jogo consistia no seguinte: Monty Hall, o apresentador, apresentava três port
 <br>
 <hr>
 <img src="https://i.imgur.com/VVBBVab.png" width="700" height="350" />
+<br>
+<hr>
+```bash
+# Clone este repositório
+$ git clone https://github.com/valentimcanejo/monty-hall-problem.git
+
+# Acesse as pastas front-end e back-end separadamente no terminal
+$ cd monty-hall-problem
+
+# Use este comando para instalar as dependências.
+$ npm i
+
+# Inicie a aplicação.
+$ npm run serve
+
+# O servidor inciará na porta:8080
+```
