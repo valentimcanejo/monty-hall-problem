@@ -22,6 +22,7 @@ O jogo consistia no seguinte: Monty Hall, o apresentador, apresentava três port
 <img src="https://i.imgur.com/VVBBVab.png" width="700" height="350" />
 <br>
 <hr>
+
 ```bash
 # Clone este repositório
 $ git clone https://github.com/valentimcanejo/monty-hall-problem.git
@@ -30,6 +31,7 @@ $ git clone https://github.com/valentimcanejo/monty-hall-problem.git
 $ cd monty-hall-problem
 
 # Use este comando para instalar as dependências.
+
 $ npm i
 
 # Inicie a aplicação.
